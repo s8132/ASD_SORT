@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "quickSort", "sortowania\sortowania.vcxproj", "{274E067B-A8B3-4271-839D-6225226FFC8A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bubbleSort", "bubbleSort\bubbleSort.vcxproj", "{0E6306C5-2E08-43D2-99A7-5154A78EE10D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mergeSort", "mergeSort\mergeSort.vcxproj", "{A5D11965-0503-4862-A685-FBC23D4A7A72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{274E067B-A8B3-4271-839D-6225226FFC8A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{274E067B-A8B3-4271-839D-6225226FFC8A}.Debug|Win32.Build.0 = Debug|Win32
+		{274E067B-A8B3-4271-839D-6225226FFC8A}.Release|Win32.ActiveCfg = Release|Win32
+		{274E067B-A8B3-4271-839D-6225226FFC8A}.Release|Win32.Build.0 = Release|Win32
+		{0E6306C5-2E08-43D2-99A7-5154A78EE10D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0E6306C5-2E08-43D2-99A7-5154A78EE10D}.Debug|Win32.Build.0 = Debug|Win32
+		{0E6306C5-2E08-43D2-99A7-5154A78EE10D}.Release|Win32.ActiveCfg = Release|Win32
+		{0E6306C5-2E08-43D2-99A7-5154A78EE10D}.Release|Win32.Build.0 = Release|Win32
+		{A5D11965-0503-4862-A685-FBC23D4A7A72}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A5D11965-0503-4862-A685-FBC23D4A7A72}.Debug|Win32.Build.0 = Debug|Win32
+		{A5D11965-0503-4862-A685-FBC23D4A7A72}.Release|Win32.ActiveCfg = Release|Win32
+		{A5D11965-0503-4862-A685-FBC23D4A7A72}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
